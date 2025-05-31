@@ -1,14 +1,24 @@
-# Smart Task Manager 📝
+# 📝 Smart Task Manager
 
-A simple Java-based task management app using Maven.
+A simple Java console application to manage tasks, built using Maven and JUnit 5.
 
-## Features
-- ✅ Add, view, and delete tasks
-- ⏰ Set deadlines and priorities
-- 🖥 Console interface
+## 🚀 Features
+- Add new tasks with title, deadline, and priority
+- View all tasks in a list
+- Delete tasks by title
+- Simple and clean command-line interface
 
-## How to Run
+## 📸 Demo Screenshot
+*(Optional: Add a screenshot of your app running in the terminal)*
 
+## 💻 Technologies Used
+- Java 17
+- Maven
+- JUnit 5
+
+## 🧪 How to Run
+
+### Compile
 ```bash
 mvn compile
 mvn exec:java
